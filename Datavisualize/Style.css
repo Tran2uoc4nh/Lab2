@@ -1,0 +1,40 @@
+.header{
+    height: auto;
+    width: auto;
+    color:rgb(255, 0, 0);
+    font-family: Arial;
+    text-align: center;
+    background-color: rgb(184, 183, 183);
+}
+
+#info{
+    font-family: Bold;
+    font-size: 15px;
+    font-weight: 100;
+    background-position: 0%;
+    text-align: left;
+    line-height: 40%;
+    word-spacing: normal;
+    color: black;
+}
+
+div.bar {
+    margin-right: 2px;
+    display: inline-block;
+    height: 75px;
+    width: 20px;
+    background-color: teal;
+    border: 1px;
+}
+
+.content{
+    font-family: bold;
+    font-size: 20px;
+    font-weight: 100;
+    background-position: 0%;
+    text-align: left;
+    text-decoration: underline;
+    line-height: 40%;
+    word-spacing: normal;
+    color: red;
+}
